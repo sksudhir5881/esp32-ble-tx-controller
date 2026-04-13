@@ -1,4 +1,6 @@
 # ESP32 Game Controller
+<img width="1024" height="1536" alt="ChatGPT Image Apr 13, 2026, 09_46_19 PM" src="https://github.com/user-attachments/assets/9f024c68-d2ca-4601-a28c-96bae382e74a" />
+
 
 A custom ESP32-based BLE game controller with TFT display, analog sticks, switches, and OTA update capability.
 
