@@ -1,5 +1,5 @@
 # ESP32 Game Controller
-<img width="410" height="445" alt="esp32-transmitter" src="https://github.com/user-attachments/assets/09a9f89e-d01f-45ad-a58f-d4e90e0e7494" />
+
 
 A custom ESP32-based BLE game controller with TFT display, analog sticks, switches, and OTA update capability.
 
@@ -30,6 +30,7 @@ A custom ESP32-based BLE game controller with TFT display, analog sticks, switch
 - Appropriate pull‑up/pull‑down resistors as needed
 
 ## Pin Mapping
+<img width="410" height="445" alt="esp32-transmitter" src="https://github.com/user-attachments/assets/09a9f89e-d01f-45ad-a58f-d4e90e0e7494" />
 
 | Function   | GPIO | Notes                          |
 |------------|------|--------------------------------|
